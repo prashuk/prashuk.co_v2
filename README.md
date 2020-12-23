@@ -1,4 +1,3 @@
-# My Portfolio - v2
+# My Portfolio
 
-Old version of https://prashuk.co
-
+prashuk.com
